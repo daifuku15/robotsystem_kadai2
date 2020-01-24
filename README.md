@@ -6,8 +6,10 @@ python
 ## Usage 
     #実行ディレクトリに移行
     cd src/mypkg/scripts  
+    
     #数を入力するためのノード
     rosrun mypkg count.py  
+    
     #count.pyで入力された数が3の倍数なら１を、それ以外なら０を返す
     rosrun mypkg twice.py   
 ## License  
