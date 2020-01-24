@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=LMpq2qJzS_8
 ## Dependency  
 python 
 ## Usage 
- cd src/mypkg/scripts
+ cd src/mypkg/scripts  
  rosrun mypkg count.py  
  rosrun mypkg twice.py   
 ## License  
